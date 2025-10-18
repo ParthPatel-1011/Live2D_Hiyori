@@ -1,0 +1,35 @@
+{
+  "name": "live2d-hiyori-github",
+  "version": "1.0.0",
+  "description": "A web application featuring a conversational AI companion with a Live2D model that responds with lip-synced speech. GitHub Pages version.",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "live2d",
+    "ai",
+    "companion",
+    "text-to-speech",
+    "elevenlabs",
+    "pixijs",
+    "github-pages"
+  ],
+  "author": "Developer",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ParthPatel-1011/Live2D_Hiyori.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ParthPatel-1011/Live2D_Hiyori/issues"
+  },
+  "homepage": "https://parthpatel-1011.github.io/Live2D_Hiyori/"
+}
