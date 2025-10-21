@@ -1,11 +1,8 @@
-## Demo
-
-https://parthpatel-1011.github.io/Live2D_Hiyori/
-
-
 # Live2D AI Companion
 
 A web application featuring a conversational AI companion with a Live2D model that responds with lip-synced speech.
+
+Demo : https://parthpatel-1011.github.io/Live2D_Hiyori/
 
 ## Features
 
