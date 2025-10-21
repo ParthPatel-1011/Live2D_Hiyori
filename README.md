@@ -1,4 +1,4 @@
-# Live2D AI Companion
+# Live2D AI TTS
 
 A web application featuring a conversational AI companion with a Live2D model that responds with lip-synced speech.
 
